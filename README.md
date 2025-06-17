@@ -35,5 +35,5 @@ README.md
 Este material é fornecido "no estado em que se encontra" e destina-se unicamente a qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor.
 Para outras finalidades ou solicitações de uso que não se enquadrem nas condições de uso acadêmico e não comercial, por favor, entre em contato com o autor.
 Contato:
-Jose Carlos Franchini Junior
-Seu Email: jose.franchinijr@gmail.com 
+Jose Carlos Franchini Junior;
+Email: jose.franchinijr@gmail.com 
