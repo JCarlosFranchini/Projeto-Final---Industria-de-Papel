@@ -17,6 +17,22 @@ Este repositório contém o projeto completo de sistemas elétricos para uma **i
 
 ---
 
+## Estrutura do Repositório
+
+```
+📁 1 - Cálculo Luminotécnico
+📁 2 - Cálculo de Cabos
+📁 3 - Diagrama Unifilar
+📁 4 - Normas
+📁 5 - Referências
+📁 6 - Relatório Projeto Final
+📁 7 - Tabelas
+📁 8 - Apresentação
+
+README.md
+```
+
+
 ## Restrições de Uso
 Este material é fornecido "no estado em que se encontra" e destina-se unicamente a qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor.
 Para outras finalidades ou solicitações de uso que não se enquadrem nas condições de uso acadêmico e não comercial, por favor, entre em contato com o autor.
