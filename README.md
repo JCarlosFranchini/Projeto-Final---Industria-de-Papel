@@ -20,14 +20,15 @@ Este repositório contém o projeto completo de sistemas elétricos para uma **i
 ## Estrutura do Repositório
 
 ```
-📁 1 - Cálculo Luminotécnico
-📁 2 - Cálculo de Cabos
-📁 3 - Diagrama Unifilar
-📁 4 - Normas
-📁 5 - Referências
-📁 6 - Relatório Projeto Final
-📁 7 - Tabelas
-📁 8 - Apresentação
+📁 1 - Apresentação
+📁 2 - Cálculo Luminotécnico
+📁 3 - Cálculo de Cabos
+📁 4 - Diagrama Unifilar
+📁 5 - Normas
+📁 6 - Referências
+📁 7 - Relatório Projeto Final
+📁 8 - Tabelas
+
 
 README.md
 ```
